@@ -1,0 +1,6 @@
+{
+  "name": "KARYAPROOF",
+  "description": "AI-assisted practical skills verification platform with human assessor authority, traceable evidence graphs, and verifiable competency credentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
